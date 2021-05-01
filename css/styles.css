@@ -25,3 +25,17 @@ body {
 #containder h1 {
     font-size: 3rem;
 }
+
+#cabecera #tagline {
+    padding: 0 0 0 1rem;
+    font-weight: normal;
+    font-size: 1rem;
+}
+#cabecera {
+    background-color: #33A;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 1em;
+}
