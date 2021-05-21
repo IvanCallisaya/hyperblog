@@ -39,6 +39,9 @@ body {
     margin: 0;
     padding: 1em;
 }
+#post{
+    padding: 1em;
+}
 #footer {
     background: #777;
     color: white;
